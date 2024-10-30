@@ -1,0 +1,12 @@
+.media{
+	position: relative;
+}
+
+.btn-youtube{
+	left: 50%;
+	letter-spacing: 0.5px;
+	margin-left: -105px;
+	margin-top: -23px;
+	position: absolute;
+	top: 50%;
+}
